@@ -1,5 +1,6 @@
 * [首页](/)
 * 论文解读
+  * [ConFu: Contemplate the Future for Better Speculative Sampling](ConFu_Contemplate_the_Future_for_Better_Speculative_Sampling.md)
   * [MultiGraSCCo: A Multilingual Anonymization Benchmark with Annotations of Personal Identifiers](MultiGraSCCo_A_Multilingual_Anonymization_Benchmark_with_Annotations_of_Personal_Identifiers.md)
   * [Verify as You Go: An LLM-Powered Browser Extension for Fake News Detection](Verify_as_You_Go_An_LLM-Powered_Browser_Extension_for_Fake_News_Detection.md)
   * [Structural Equivalence and Efficiency in Grammar-Constrained LLM Decoding](Structural_Equivalence_and_Efficiency_in_Grammar-Constrained_LLM_Decoding.md)
